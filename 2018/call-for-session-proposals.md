@@ -36,7 +36,7 @@ The _6th International Congress on Mathematical Software_ will consist of severa
 
 **How to organize a session**
 
-*   Maintain a session web page (see template in [html-format](templates/icms_session_2018/) or [markdown-format](templates/icms_session_2018.txt)).
+*   Maintain a session web page (see template in [html-format](icms_session_2018) or [markdown-format](icms_session_2018.txt)).
 *   Send a call for abstracts to the potential speakers in the topic area of the session (see template in [tex-format](./Templates2016/ICMS_Extended_Abstract_2016.tex) or in [pdf-format](./Templates2016/ICMS_Extended_Abstract_2016.pdf)).
 *   Review the submitted abstracts and make decision on their acceptance, as soon as each one arrives.
 *   Complete the process by **Apr 15, 2018**.
