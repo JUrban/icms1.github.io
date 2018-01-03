@@ -27,7 +27,7 @@ This session is for facilitating the communication among the researchers and the
 
 ### Submission Guidelines
 
-*   If you would like to give a talk at ICMS, you need to submit first a short abstract and then later an extended abstract. See the [guideline](http://icms-conference.org/2018/call-for-submission.html) for the details.  
+*   If you would like to give a talk at ICMS, you need to submit first a short abstract and then later an extended abstract. See the [guideline](http://icms-conference.org/2018/call-for-submissions/) for the details.  
 
 *   After the meeting, the submission guideline for a journal special issue will be communicated to you by the session organizers.
 
