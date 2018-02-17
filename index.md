@@ -10,9 +10,9 @@ and practioners centered around “mathematical software” as a scientific acti
 
 ### Upcoming Congress
 
-* [ICMS 2018 - South Bend (USA)](./2018/call-for-session-proposals.html) Notre Dame, 24-27 July 2018
+* [ICMS 2018 - South Bend (USA)](http://icms-conference.org/2018) Notre Dame, 24-27 July 2018
 
-### past Meetings
+### Past Meetings
 * [ICMS 2016 - Berlin (Germany)](http://icms2016.zib.de/)
 * [ICMS 2014 - Seoul (Korea)](http://voronoi.hanyang.ac.kr/icms2014/)
 * [ICMS 2010 - Kobe (Japan)](http://www.math.kobe-u.ac.jp/icms2010/)

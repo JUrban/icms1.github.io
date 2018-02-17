@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default2018
 title: ICMS 2018 - Call for Session Proposals
 ---
 
@@ -8,6 +8,12 @@ ICMS 2018 Call for Session Proposals
 
 
 The _6th International Congress on Mathematical Software_ will consist of several topical sessions. Each session will provide an overview of the challenges, achievements and progress in a subfield of mathematical software research, development and use. The program committee will consist of the session organizers. We solicit session proposals.
+
+For inspiration, have a look at the sessions of past ICMS:
+[ICMS 2016](http://icms2016.zib.de/sessions.html),
+[ICMS 2014](http://voronoi.hanyang.ac.kr/icms2014/index.html?PageID=Sessions_contents),
+and [ICMS 2010](http://www.math.kobe-u.ac.jp/icms2010/parts/sessions.html)
+
 
 **You are invited to propose a session if you**
 
@@ -59,6 +65,7 @@ This format is meant only as a rough frame; the organization of a session can be
 *   logic
 
     *   theorem proving
+    *   formalization of mathematics
     *   logic minimization
     *   quantifier elimination
     *   ....
@@ -126,6 +133,8 @@ This format is meant only as a rough frame; the organization of a session can be
 
 *   mathematical problem solving platform
 
+    *   AI, machine learning and big-data methods in mathematics
+    *   computer understanding and natural language processing of mathematics
     *   mathematical theory exploration
     *   mathematical knowledge management
     *   user interface
