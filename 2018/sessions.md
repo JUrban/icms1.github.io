@@ -468,7 +468,7 @@ enables mutual enrichment of the individual areas.
 
 ### Journal Special Issue
 
-*   A **_journal special issue_ **consisting of _full papers_ will be organized immediately after the meeting.
+*   A  _journal special issue_ consisting of _full papers_ will be organized immediately after the meeting.
 *   After the meeting, the submission guideline for a journal special issue will be communicated to you by the session organizers.
 
 ## 19. Formal and Informal Mathematical Corpora
