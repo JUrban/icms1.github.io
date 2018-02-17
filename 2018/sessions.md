@@ -23,7 +23,7 @@ Notes in Computer Science series.  See the [guidelines](http://icms-conference.o
 *   Some sessions will organize a _journal special issue_  consisting of _full papers_ after the meeting.
 
 
-## General Session
+## 1. General Session
 
 ### Organizers
 
@@ -37,7 +37,7 @@ Notes in Computer Science series.  See the [guidelines](http://icms-conference.o
  This session addresses aspects of mathematical software that are not covered by the previous sessions.
 
 
-## ICMS 2018 Session: Title: Algorithms and applications for curves and surfaces
+## 2. Algorithms and applications for curves and surfaces
 
 ### Organizers
 
@@ -69,7 +69,7 @@ the recent advances made in this direction.
 *   Performing boolean operations (such as intersection, union, etc.) on curves and surfaces
 
 
-## ICMS 2018 Session: Symbolic Summation and Integration
+## 3. Symbolic Summation and Integration
 
 ### Organizers
 
@@ -91,7 +91,7 @@ evaluating / simplifying sums and integrals, either in an explicit /
 implicit form or numerically.
 
 
-## ICMS 2018 Session: Polyhedral methods in geometry and optimization 
+## 4. Polyhedral methods in geometry and optimization 
 
 ### Organizers
 
@@ -123,7 +123,7 @@ Specific topics include, but are not restricted to, the following:
 
 
 
-## ICMS 2018 Session: The 29th OpenMath Workshop
+## 5. The 29th OpenMath Workshop
 
 ### Organizers
 
@@ -158,7 +158,7 @@ https://openmath.github.io/meetings/
 
 
 
-## ICMS 2018 Session: Post-Quantum Group-based Cryptography
+## 6. Post-Quantum Group-based Cryptography
 
 ### Organizers
 
@@ -175,7 +175,7 @@ Group-based primitives are the topic of our special session. We will invite rese
 
 
 
-## ICMS 2018 Session: Groebner Bases
+## 7. Groebner Bases
 
 ### Organizers
 
@@ -202,7 +202,7 @@ Group-based primitives are the topic of our special session. We will invite rese
 *    Comparison (of computing times and other efficiency criteria) of various implementations
 
 
-## ICMS 2018 Session: Machine Learning for Mathematical Software
+## 8. Machine Learning for Mathematical Software
 
 ### Organizers
 
@@ -214,7 +214,7 @@ Group-based primitives are the topic of our special session. We will invite rese
 While there has been some discussion on how Computer Algebra Systems could be used for AI there is little literature on applications in the other direction.  However, recent results for quantifier elimination suggest that given enough example problems there is scope for tools like Support Vector Machines to improve the performance of Computer Algebra Systems.  It may seem that the inherently probabilistic nature of machine learning tools would invalidate the exact mathematical results prized by such software, however, algorithms and implementations often come with a range of choices which have no effect on the mathematical correctness of the end result but a great effect on the resources required to find it.  This sessions aims to promote thought on whether, where, and how best machine learning could be applied to mathematical software development.
 
 
-## ICMS 2018 Session: Satisfiability Checking and Symbolic Computation
+## 9. Satisfiability Checking and Symbolic Computation
 
 ### Organizers
 
@@ -226,7 +226,7 @@ While there has been some discussion on how Computer Algebra Systems could be us
 
 Software tools for checking the satisfiability of real-algebraic formulas play an important role in a wide range of applications. Such tools are being developed in Mathematics in form of computer algebra systems as well as in Computer Science as SAT-modulo-theories (SMT) solvers. With this topical session we want to strengthen the exchange between these areas, with presentations about algorithms and software tools from both domains and success stories about how the two communities can profit from achievements of each other.
 
-## ICMS 2018 Session: Mathematical Interfaces: Computing, Modeling, Web & Mobile
+## 10. Mathematical Interfaces: Computing, Modeling, Web & Mobile
 
 ### Organizers
 
@@ -251,7 +251,7 @@ research and development and present new technologies. Papers exploring both res
 educational experiences by using these technologies in an original way are also welcomed.
 
 
-## ICMS 2018 Session: Backtrack search techniques in groups and combinatorics
+## 11. Backtrack search techniques in groups and combinatorics
 
 ### Organizers
 
@@ -282,7 +282,7 @@ Backtrack search is a vital part of solving many problems in computational group
   results and implementations.
 
 
-## ICMS 2018 Session: Computational Algebraic Geometry
+## 12. Computational Algebraic Geometry
 
 ### Organizers
 
@@ -297,7 +297,7 @@ This session will bring together researchers and practitioners who solve polynom
 
 The topics include algebraic geometry, applications of algebraic geometry, computational algebra, computer algebra systems, hybrid symbolic-numeric methods, and numerical algebraic geometry. 
 
-## ICMS 2018 Session: Symbolic Combinatorics 
+## 13. Symbolic Combinatorics 
 
 ### Organizers
 
@@ -312,7 +312,7 @@ Symbolic Combinatorics is roughly defined as the application of symbolic algorit
 Topics include the manipulation of generating functions, algorithms for asymptotics, and the study of multivariate integer sequences.
 
 
-## ICMS 2018 Session: Towards Composable Mathematical Software
+## 14. Towards Composable Mathematical Software
 
 ### Organizers
 
@@ -341,7 +341,7 @@ There is a wealth of mathematical software available today, most of which are
   and a vision for the future.
 
 
-## ICMS 2018 Session: Management of Mathematical Software, Mathematical Knowledge and Research Data
+## 15. Management of Mathematical Software, Mathematical Knowledge and Research Data
 
 ### Organizers
 
@@ -382,7 +382,7 @@ for best practices in mathematical software and knowledge management.
 
 
 
-## ICMS 2018 Session: Software for exact and certified numeric computations
+## 16. Software for exact and certified numeric computations
 
 ### Organizers
 
@@ -404,7 +404,7 @@ Exact and certified numeric computations produce rigorous and reliable results w
 + Case and experimental studies, software comparison, combination, and integration, and complexity analysis for exact, certified, and symbolic-numeric hybrid computations
 
 
-## ICMS 2018 Session: Math in 2050 - Creativity, Publication, and Application supported by Knowledge Bases and Software?
+## 17. Math in 2050 - Creativity, Publication, and Application supported by Knowledge Bases and Software?
 
 ### Organizers
 
@@ -435,7 +435,7 @@ mathematicians).  The contributors will be invited to submit
 articles to a special issue of "Mathematics in Computer Science".
 
 
-## ICMS 2018 Session: Quantifier Reasoning
+## 18. Quantifier Reasoning
 
 ### Organizers
 
@@ -471,7 +471,7 @@ enables mutual enrichment of the individual areas.
 *   A **_journal special issue_ **consisting of _full papers_ will be organized immediately after the meeting.
 *   After the meeting, the submission guideline for a journal special issue will be communicated to you by the session organizers.
 
-## ICMS 2018 Session: Formal and Informal Mathematical Corpora
+## 19. Formal and Informal Mathematical Corpora
 
 ### Organizers
 
